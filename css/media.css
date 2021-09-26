@@ -1,0 +1,517 @@
+
+@media(max-width:1440px){
+.newsletter form button { 
+    left: 85%;
+    transform: translate(-85%, -100%);
+}
+.blog_icon {
+    top: 65%;
+    transform: translate(-5%, -65%);
+}
+}
+@media(max-width:1024px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 12px;
+        padding: 14px 12px;
+     
+    }
+    .iphone_6 img {
+        position: absolute;
+        bottom: 0%;
+    }
+    .li_content p {
+        font-size: 16px;
+    }
+    .li_content {
+        width: 80%;
+        margin-right: 5px;
+        margin-top: 22px;
+    }
+    .feactures h1 {
+        font-size: 23px;
+        margin: 55px 0px;
+      
+    }
+    .box {
+        width: 50px;
+        height: 50px;
+        margin-top: 35px;
+    }
+    .li_content h3 {
+        font-size: 25px;
+    }
+    .blog_icon {
+        width: 50px;
+        height: 50px;
+        top: 50%;
+        transform: translate(-5%, -50%);
+    }
+    
+    .newsletter form input {
+        
+        padding: 10px 22px;
+      
+    }
+    .footer_logo ul li {
+        margin-right: 62px;
+        margin-bottom: 7px;
+    }
+    .footer_logo p {
+        
+        margin-top: 31px;
+        font-size: 14px;
+    }
+    .contact_us ul li {
+        margin: 36px 0px;
+        font-size: 18px;
+    }
+    .contact_us ul li i {
+       
+        margin-top: 10px;
+        margin-right: 15px;
+        font-size: 25px;
+    }
+    .footer_nav ul li a {
+        font-size: 14px;
+    }
+    .newsletter form button {
+        left: 100%;
+        transform: translate(-100%, -100%);
+    }
+    }
+        
+    @media(max-width:768px){
+        .blog_icon {
+            width: 40px;
+            height: 40px;
+            top: 37%;
+            transform: translate(-5%, -37%);
+        }
+    .btn_join{
+        display: none;
+    }
+    
+    .large_btn_join{
+        display: inherit;
+    }   
+    
+    .top_header {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-left:0px;
+        display: inline-block;
+        margin-bottom: 7px;
+    }
+    .navbar ul{
+        text-align: center;
+    }
+    .instraction_item span img {
+        width: 40%;
+    }
+    .iphone_6 img {
+        position: absolute;
+        top: 0%;
+        right: 25%;
+        height: 100%;
+    }
+    .feactures h1 {
+        font-size: 20px;
+        margin: 49px 0px;
+    }
+    .box {
+        width: 45px;
+        height: 45px;
+        margin-top: 45px;
+        margin-left: -55px;
+    }
+    .li_content h3 {
+        
+        font-size: 24px;
+      
+    }
+    .li_content {
+        width: 80%;
+        margin-right: 52px;
+        margin-top: 42px;
+    }
+    .li_content p {
+       
+        margin-top: 30px;
+        font-size: 13px;
+        
+    }
+    .newsletter form button {
+        left: 130%;
+        transform: translate(-130%, -100%);
+
+    }
+    .footer_nav ul li a {
+        font-size: 10px;
+    }
+    .newsletter form input {
+        padding: 10px 10px;
+    }
+    .footer_logo ul li {
+        margin-right: 62px;
+        margin-bottom: 7px;
+    }
+    .footer_logo p {
+        
+        margin-top: 31px;
+        font-size: 14px;
+    }
+    .contact_us ul li {
+        margin: 36px 0px;
+        font-size: 18px;
+    }
+    .contact_us ul li i {
+       
+        margin-top: 10px;
+        margin-right: 15px;
+        font-size: 25px;
+    }
+    }
+    
+    
+    
+    @media(max-width:767px){
+    
+        .btn_join{
+            display: none;
+        }
+        
+        .large_btn_join{
+            display: inherit;
+        }   
+    
+        .top_header {
+            display: none;
+        }
+        .navbar-light .navbar-nav .nav-link{
+            margin-left:0px;
+            display: inline-block;
+            margin-bottom: 7px;
+        }
+        .instraction_item{
+            margin: 15px 0px;
+        }
+        .iphone_6 img {
+            display: none;
+        }
+        .blog_icon {
+            width: 40px;
+            height: 40px;
+            top: 47%;
+            transform: translate(-5%, -47%);
+        }
+        .blog_icon i {
+            font-size: 15px;
+            
+        }
+        .single_blog {
+            margin-bottom: 20px;
+        }
+        
+        .navbar ul{
+            text-align: center;
+        }
+        .banner h1 {
+            font-size: 35px;
+        }
+        .feactures h1::before {
+        
+            left: 45%;
+           
+        }
+        .feactures h1 {
+           
+            font-size: 22px;
+            
+        }
+        .instraction_item span img {
+            width: 16%;
+        }
+        .footer_nav ul li a {
+            font-size: 10px;
+        }
+        
+
+.newsletter form button {
+    
+    left: 90%;
+    transform: translate(-90%, -100%);
+   
+}
+        }
+        @media(max-width:768px)and (min-width:575px){
+            
+            .safe p, .mobile p, .wallet p, .Experts p, .Instant p {
+                font-size: 10px;
+            }
+            .chart img{
+                width: 30%;
+            }
+            
+        .safe .icon, .mobile .icon, .Wallet .icon, .Experts .icon, .Instant .icon, .Recuring .icon {
+            width: 40px;
+            height: 40px;
+            
+        }
+        .safe p, .mobile p, .wallet p, .Experts p, .Instant p {
+        
+            font-size: 10px;
+        }
+        }
+    @media(max-width:575px){
+        .banner h1 {
+            font-size: 30px;
+        }
+        .blog_icon {
+            width: 40px;
+            height: 40px;
+            top: 47%;
+            transform: translate(-5%, -47%);
+        }
+        .blog_icon i {
+            font-size: 15px;
+            
+        }
+        .single_blog {
+            margin-bottom: 20px;
+        }
+        
+        .box{
+            
+            width: 45px;
+            height: 45px;
+            margin-top: 0px;
+            margin-left: 10px;
+        
+        }
+        .li_content {
+            width: 75%;
+            margin-right: 52px;
+            margin-top: 0px;
+        }
+            
+         
+    
+        .feactures ul {
+        
+            margin-top: 30%;
+        }
+        .li_content h3 {
+            font-size: 25px;
+           
+        }
+        .li_content p {
+    
+            font-size: 15px;
+            text-align: initial;
+        }
+        .footer_logo ul {
+            justify-content: center;
+            
+        }
+        .footer_logo {
+            text-align: center;
+        }
+        
+        .newsletter form button {
+            width: 45px;
+            height: 45px;
+            left: 80%;
+            transform: translate(-80%, -100%);
+        }
+        .footer_nav ul li a {
+            font-size: 11px;
+        }
+    }
+    
+    @media (max-width: 425px){
+        .navbar-toggler span i {
+            font-size: 25px;
+    
+        }
+        .btn_join, .large_btn_join {
+            font-size: 10px;
+           
+        }
+        .feactures h1 {
+            font-size: 22px;
+            text-align: center;
+        }
+        .li_content {
+            width: 72%;
+            margin-right: 52px;
+            margin-top: 5px;
+        }
+        
+        .box {
+            width: 35px;
+            height: 35px;
+            margin-top: 40px;
+            margin-left: 23px;
+        }
+       
+        .li_content h3 {
+            font-size: 20px;
+            margin-top: 25px;
+            margin-left: 30px;
+        }
+        .li_content p {
+            font-size: 11px;
+           
+        }
+        
+        .li_content p {
+            font-size: 14px;
+            margin-left: 30px;
+            margin-top: 62px;
+        }
+        .chart{
+            display: none;
+        } 
+        .amount_content h1 {
+            font-size: 25px;
+        }
+            .amount_content p {
+               
+                font-size: 16px;
+            }
+            .blog_icon {
+                width: 35px;
+                height: 35px;
+                top: 30%;
+                transform: translate(-5%, -30%);
+            } 
+            
+            
+    .team_content h6 {
+        font-size: 13px;
+    }
+    .team_content h3 {
+        font-size: 16px;
+    }
+    
+    .contact_us h1 {
+        font-size: 22px;
+    }
+    .contact_us ul li {
+        margin: 36px 0px;
+        font-size: 13px;
+    }
+    .contact_us ul li i {
+        margin-top: 10px;
+        margin-right: 15px;
+        font-size: 20px;
+    }
+    .quick_links h1 {
+        font-size: 22px;
+        
+    }
+    .quick_links ul li {
+        margin: 10px 0px;
+    }
+    .quick_links ul {
+        margin-top: 26px;
+    }
+    .newsletter h1 {
+        font-size: 25px;
+    }
+    
+    .newsletter p {
+        font-size: 13px;
+        margin-top: 25px;
+        text-align: center;
+    }
+    .newsletter form input {
+        padding: 8px 15px;
+        margin-left: -30px;
+    }
+    
+    
+    .contact_us {
+        margin-top: 58px;
+    }
+    .footer_logo ul li {
+        margin-right: 20px;
+        margin-bottom: 10px;
+    }
+    .footer_nav ul li a {
+        font-size: 14px;
+    }
+    .li_content {
+        width: 68%;
+        margin-right: 52px;
+        margin-top: 5px;
+    }
+    .footer_nav ul li a {
+        font-size: 9px;
+    }
+    .newsletter form button {
+        width: 40px;
+        height: 40px;
+        left: 88%;
+        transform: translate(-88%, -100%);
+    }
+    }      
+    
+    @media (max-width: 375px){
+        .navbar-toggler span i {
+            font-size: 25px;
+    
+        }
+        .btn_join, .large_btn_join {
+            font-size: 10px;
+        }
+        .newsletter form button {
+    
+            left: 107%;
+            transform: translate(-107%, -100%);
+        }
+    
+        .blog_icon {
+            width: 30px;
+            height: 30px;
+            top: 25%;
+            transform: translate(-5%, -25%);
+    
+        }
+        }
+        @media (max-width: 320px){
+      
+    .navbar-toggler span i {
+        font-size: 25px;
+    
+    }
+    .btn_join, .large_btn_join {
+        font-size: 10px;
+    }
+    .blog_icon{
+        width: 30px;
+        height: 30px;
+        top: 24%;
+        transform: translate(-5%, -24%);
+    }
+    .li_content {
+        width: 62%;
+        margin-right: 52px;
+        margin-top: 5px;
+    }
+    .blog_icon {
+        width: 35px;
+        height: 35px;
+        top: 18%;
+        transform: translate(-5%, -18%);
+    } 
+    .footer_nav ul li a {
+        font-size: 7px;
+    }
+    .newsletter form button {
+        left: 136%;
+        transform: translate(-136%, -100%);
+    }
+    }
+    
